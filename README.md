@@ -28,4 +28,26 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
 
 ## Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ruturaj-ranpise/) or email me at [ruturaj26201@gmail.com](mailto:ruturaj26201@gmail.com). Thank you for visiting my portfolio!
+<p>
+  <a href="mailto:ruturaj26201@gmail.com" style="margin-right: 10px;">
+    <img src="https://github.com/ruturaj0626/Data-Science-Portfolio/blob/main/email.png" alt="Email" width="50" height="50">
+  </a>  
+
+  <a href="https://wa.me/919579411956" style="margin-right: 10px;">
+    <img src="https://github.com/ruturaj0626/Data-Science-Portfolio/blob/main/wa.png" alt="WhatsApp" width="50" height="50">
+  </a>  
+
+  <a href="https://www.linkedin.com/in/ruturaj-ranpise/">
+    <img src="https://github.com/ruturaj0626/Data-Science-Portfolio/blob/main/LinkedIn.jpg" alt="LinkedIn" width="50" height="50">
+  </a>  
+</p>
+
+
+
+
+
+<!-- Replace with actual website URL -->
+<!-- 
+<a href="https://www.yourwebsite.com"> 
+  <img src="https://github.com/ruturaj0626/Data-Science-Portfolio/blob/main/Website.png" alt="Website" width="30" height="30">
+</a> -->
