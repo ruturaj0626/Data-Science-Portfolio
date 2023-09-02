@@ -9,7 +9,8 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Movie Recommendation System](https://github.com/ruturaj0626/Movie_Recommendation_System): Developed a collaborative filtering-based recommendation system for personalized movie suggestions.
   - [Exploring Wine Quality](https://github.com/ruturaj0626/Exploring_Wine_Quality_EDA_ML): Conducted EDA and built ML models to predict wine quality based on various attributes.
   - [Stroke Risk Forecasting](https://github.com/ruturaj0626/Forecasting-Stroke-Risk_An-In-Depth-Analysis): Forecasted stroke risk using health data, identifying risk factors and providing actionable insights.
-  - [Mental-Health-Treatment-Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
+  - [Mental Health Treatment Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
+  - [Predicting Cancellations And Gaining Hotel Booking](https://github.com/ruturaj0626/Predicting-Cancellations-And-Gaining-Hotel-Booking): A focus on hotel booking cancellation predictions, revenue optimization, and customer behavior analysis.
     
 *Tools - Python, scikit-learn, XGBoost, pandas, matplotlib, collaborative filtering, seaborn, TensorFlow, Keras, deep learning, image classification, data analysis, network analysis, data visualization, feature engineering*
 
