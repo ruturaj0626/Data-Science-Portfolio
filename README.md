@@ -11,7 +11,8 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Stroke Risk Forecasting](https://github.com/ruturaj0626/Forecasting-Stroke-Risk_An-In-Depth-Analysis): Forecasted stroke risk using health data, identifying risk factors and providing actionable insights.
   - [Mental Health Treatment Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
   - [Predicting Cancellations And Gaining Hotel Booking](https://github.com/ruturaj0626/Predicting-Cancellations-And-Gaining-Hotel-Booking): A focus on hotel booking cancellation predictions, revenue optimization, and customer behavior analysis.
-  - [Room Occupancy Estimation](https://github.com/ruturaj0626/Room-Occupancy-Estimation) : Utilize non-intrusive sensor data and machine learning techniques to predict and monitor the number of occupants in a controlled environment.
+  - [Room Occupancy Estimation](https://github.com/ruturaj0626/Room-Occupancy-Estimation): Utilize non-intrusive sensor data and machine learning techniques to predict and monitor the number of occupants in a controlled environment.
+  - [Anomaly Detection for Steel Plate Defects](https://github.com/ruturaj0626/Anomaly-Detection-for-Steel-Plate-Defects): Detect and classify faults or defects in steel plates using machine learning
     
 *Tools - Python, scikit-learn, XGBoost, pandas, matplotlib, collaborative filtering, seaborn, TensorFlow, Keras, deep learning, image classification, data analysis, network analysis, data visualization, feature engineering*
 
