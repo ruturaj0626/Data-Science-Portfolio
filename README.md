@@ -25,6 +25,7 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
 *Tools - TensorFlow, Keras, deep learning, image classification*
 - ### **Natural Language Processing (NLP)**
   - [Sarcasm-Detection-Through-Word-Embeddings](https://github.com/ruturaj0626/Sarcasm-Detection-Through-Word-Embeddings): Development and exploration of machine learning models and techniques for detecting sarcasm in text using word embeddings.
+  - [Noun Phrase Classification](https://github.com/ruturaj0626/Noun-Phrase-Classification): Development and implementation of a Noun Phrase Classification system, involves categorizing noun phrases within text documents into predefined or custom-defined classes or categories.
  
     
 *Tools - NLTK, spaCy, Gensim, Transformers (Hugging Face), TextBlob, AllenNLP*
