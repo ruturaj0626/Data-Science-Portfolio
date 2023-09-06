@@ -6,7 +6,6 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
 
 - ### **Machine Learning**
   - [Flood Prediction Model](https://github.com/ruturaj0626/Flood-Prediction-Model): Created a machine learning model to predict flood events, aiding early warning and risk management.
-  - [Movie Recommendation System](https://github.com/ruturaj0626/Movie_Recommendation_System): Developed a collaborative filtering-based recommendation system for personalized movie suggestions.
   - [Exploring Wine Quality](https://github.com/ruturaj0626/Exploring_Wine_Quality_EDA_ML): Conducted EDA and built ML models to predict wine quality based on various attributes.
   - [Stroke Risk Forecasting](https://github.com/ruturaj0626/Forecasting-Stroke-Risk_An-In-Depth-Analysis): Forecasted stroke risk using health data, identifying risk factors and providing actionable insights.
   - [Mental Health Treatment Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
@@ -27,7 +26,8 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
 - ### **Natural Language Processing (NLP)**
   - [Sarcasm-Detection-Through-Word-Embeddings](https://github.com/ruturaj0626/Sarcasm-Detection-Through-Word-Embeddings): Development and exploration of machine learning models and techniques for detecting sarcasm in text using word embeddings.
   - [Noun Phrase Classification](https://github.com/ruturaj0626/Noun-Phrase-Classification): Development and implementation of a Noun Phrase Classification system, involves categorizing noun phrases within text documents into predefined or custom-defined classes or categories.
- 
+  - [Movie Recommendation System](https://github.com/ruturaj0626/Movie_Recommendation_System): Developed a collaborative filtering-based recommendation system for personalized movie suggestions.
+
     
 *Tools - NLTK, spaCy, Gensim, Transformers (Hugging Face), TextBlob, AllenNLP*
 
