@@ -22,7 +22,8 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [COVID-19 CNN & Grad-CAM](https://github.com/ruturaj0626/COVID-19-CNN-Grad-CAM-Visualization): Developed a CNN model for COVID-19 classification and employed Grad-CAM visualization to interpret model decisions.
   - [EarlyDetect: Cervical Cancer](https://github.com/ruturaj0626/EarlyDetect-Cervical-Cancer-Screening-Baseline): Contributed to cervical cancer detection using image classification and transfer learning techniques.
   - [Devanagari Character Recognition](https://github.com/ruturaj0626/Deep-Learning-Identify-Devanagari-Character): Built a deep learning model to identify Devanagari characters, enhancing South Asian language processing.
-  - [Environmental Data Analysis](https://github.com/ruturaj0626/Environmental-Data-Analysis): The project has collected data from approximately 497 unique locations across various regions in Rwanda, including farmlands, cities, and power plants. 
+  - [Environmental Data Analysis](https://github.com/ruturaj0626/Environmental-Data-Analysis): The project has collected data from approximately 497 unique locations across various regions in Rwanda, including farmlands, cities, and power plants.
+  - [CNN Based Face Mask Detection](https://github.com/ruturaj0626/CNN-Based-Face-Mask-Detection): CNN-powered solution for accurate and efficient face mask detection. 
   
 
 *Tools - TensorFlow, Keras, deep learning, image classification*
