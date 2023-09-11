@@ -8,7 +8,6 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Flood Prediction Model](https://github.com/ruturaj0626/Flood-Prediction-Model): Created a machine learning model to predict flood events, aiding early warning and risk management.
   - [Exploring Wine Quality](https://github.com/ruturaj0626/Exploring_Wine_Quality_EDA_ML): Conducted EDA and built ML models to predict wine quality based on various attributes.
   - [Stroke Risk Forecasting](https://github.com/ruturaj0626/Forecasting-Stroke-Risk_An-In-Depth-Analysis): Forecasted stroke risk using health data, identifying risk factors and providing actionable insights.
-  - [Mental Health Treatment Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
   - [Predicting Cancellations And Gaining Hotel Booking](https://github.com/ruturaj0626/Predicting-Cancellations-And-Gaining-Hotel-Booking): A focus on hotel booking cancellation predictions, revenue optimization, and customer behavior analysis.
   - [Room Occupancy Estimation](https://github.com/ruturaj0626/Room-Occupancy-Estimation): Utilize non-intrusive sensor data and machine learning techniques to predict and monitor the number of occupants in a controlled environment.
   - [Anomaly Detection for Steel Plate Defects](https://github.com/ruturaj0626/Anomaly-Detection-for-Steel-Plate-Defects): Detect and classify faults or defects in steel plates using machine learning
@@ -23,6 +22,7 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [EarlyDetect: Cervical Cancer](https://github.com/ruturaj0626/EarlyDetect-Cervical-Cancer-Screening-Baseline): Contributed to cervical cancer detection using image classification and transfer learning techniques.
   - [Devanagari Character Recognition](https://github.com/ruturaj0626/Deep-Learning-Identify-Devanagari-Character): Built a deep learning model to identify Devanagari characters, enhancing South Asian language processing.
   - [Environmental Data Analysis](https://github.com/ruturaj0626/Environmental-Data-Analysis): The project has collected data from approximately 497 unique locations across various regions in Rwanda, including farmlands, cities, and power plants.
+  - [Mental Health Treatment Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
   - [CNN Based Face Mask Detection](https://github.com/ruturaj0626/CNN-Based-Face-Mask-Detection): CNN-powered solution for accurate and efficient face mask detection. 
   
 
