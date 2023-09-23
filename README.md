@@ -1,7 +1,7 @@
 # Data Scientist Portfolio - [Ruturaj Ranpise]
 
 Welcome to my data science portfolio! I'm a passionate data scientist eager to contribute insights through data-driven solutions. Below are highlights of my projects showcasing skills in data analysis, machine learning, and visualization. Explore repositories on GitHub for details. 
-
+ 
 ## Contents 
 
 - ### **Machine Learning**
