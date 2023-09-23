@@ -16,7 +16,7 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Talent Insight Analytics](https://github.com/ruturaj0626/Talent-Insight-Analytics):A comprehensive solution for businesses and HR professionals seeking to gain valuable insights into their talent pool and make data-driven decisions about recruitment, retention, and workforce planning.
     
 *Tools - Python, scikit-learn, XGBoost, pandas, matplotlib, collaborative filtering, seaborn, TensorFlow, Keras, deep learning, image classification, data analysis, network analysis, data visualization, feature engineering*
-
+ 
 - ### **Deep Learning**
   - [COVID-19 CNN & Grad-CAM](https://github.com/ruturaj0626/COVID-19-CNN-Grad-CAM-Visualization): Developed a CNN model for COVID-19 classification and employed Grad-CAM visualization to interpret model decisions.
   - [EarlyDetect: Cervical Cancer](https://github.com/ruturaj0626/EarlyDetect-Cervical-Cancer-Screening-Baseline): Contributed to cervical cancer detection using image classification and transfer learning techniques.
