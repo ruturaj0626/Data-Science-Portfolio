@@ -13,7 +13,7 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Anomaly Detection for Steel Plate Defects](https://github.com/ruturaj0626/Anomaly-Detection-for-Steel-Plate-Defects): Detect and classify faults or defects in steel plates using machine learning
   - [Fraud Detection in Imbalanced Data Settings](https://github.com/ruturaj0626/Fraud-Detection-in-Imbalanced-Data-Settings): Investigating and applying methods for identifying fraudulent activities within imbalanced datasets is the central goal of this GitHub repository.
   - [Customer Churn Prediction](https://github.com/ruturaj0626/Customer-Churn-Prediction): Analyze customer data for a subscription-based service and build a model to predict and reduce customer churn. 
-  - [Talent Insight Analytics](https://github.com/ruturaj0626/Talent-Insight-Analytics):A comprehensive solution for businesses and HR professionals seeking to gain valuable insights into their talent pool and make data-driven decisions about recruitment, retention, and workforce planning.
+  - [Talent Insight Analytics](https://github.com/ruturaj0626/Talent-Insight-Analytics): A comprehensive solution for businesses and HR professionals seeking to gain valuable insights into their talent pool and make data-driven decisions about recruitment, retention, and workforce planning.
     
 *Tools - Python, scikit-learn, XGBoost, pandas, matplotlib, collaborative filtering, seaborn, TensorFlow, Keras, deep learning, image classification, data analysis, network analysis, data visualization, feature engineering*
  
@@ -24,8 +24,7 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Environmental Data Analysis](https://github.com/ruturaj0626/Environmental-Data-Analysis): The project has collected data from approximately 497 unique locations across various regions in Rwanda, including farmlands, cities, and power plants.
   - [Mental Health Treatment Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
   - [CNN Based Face Mask Detection](https://github.com/ruturaj0626/CNN-Based-Face-Mask-Detection): CNN-powered solution for accurate and efficient face mask detection.
-  - [Employee Attrition Predictor]():
-  
+  - [Employee Attrition Predictor](https://github.com/ruturaj0626/Employee-Attrition-Predictor/tree/main): The Employee-Attrition-Predictor focuses on predicting employee attrition using machine learning techniques. It is likely inspired by the IBM HR Analytics Employee Attrition & Performance dataset, a widely-used dataset in the field of HR analytics and employee retention.  
 
 *Tools - TensorFlow, Keras, deep learning, image classification*
 - ### **Natural Language Processing (NLP)**
