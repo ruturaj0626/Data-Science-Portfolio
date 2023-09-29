@@ -14,6 +14,9 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Fraud Detection in Imbalanced Data Settings](https://github.com/ruturaj0626/Fraud-Detection-in-Imbalanced-Data-Settings): Investigating and applying methods for identifying fraudulent activities within imbalanced datasets is the central goal of this GitHub repository.
   - [Customer Churn Prediction](https://github.com/ruturaj0626/Customer-Churn-Prediction): Analyze customer data for a subscription-based service and build a model to predict and reduce customer churn. 
   - [Talent Insight Analytics](https://github.com/ruturaj0626/Talent-Insight-Analytics): A comprehensive solution for businesses and HR professionals seeking to gain valuable insights into their talent pool and make data-driven decisions about recruitment, retention, and workforce planning.
+  - [Employee Attrition Predictor](https://github.com/ruturaj0626/Employee-Attrition-Predictor): The Employee-Attrition-Predictor focuses on predicting employee attrition using machine learning techniques. It is likely inspired by the IBM HR Analytics Employee Attrition & Performance dataset, a widely-used dataset in the field of HR analytics and employee retention.
+
+
     
 *Tools - Python, scikit-learn, XGBoost, pandas, matplotlib, collaborative filtering, seaborn, TensorFlow, Keras, deep learning, image classification, data analysis, network analysis, data visualization, feature engineering*
  
