@@ -23,7 +23,8 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Devanagari Character Recognition](https://github.com/ruturaj0626/Deep-Learning-Identify-Devanagari-Character): Built a deep learning model to identify Devanagari characters, enhancing South Asian language processing.
   - [Environmental Data Analysis](https://github.com/ruturaj0626/Environmental-Data-Analysis): The project has collected data from approximately 497 unique locations across various regions in Rwanda, including farmlands, cities, and power plants.
   - [Mental Health Treatment Decisions](https://github.com/ruturaj0626/Mental-Health-Treatment-Decisions-Using-ML): Leveraging data-driven insights to enhance treatment accuracy, efficacy, and patient outcomes in mental health care.
-  - [CNN Based Face Mask Detection](https://github.com/ruturaj0626/CNN-Based-Face-Mask-Detection): CNN-powered solution for accurate and efficient face mask detection. 
+  - [CNN Based Face Mask Detection](https://github.com/ruturaj0626/CNN-Based-Face-Mask-Detection): CNN-powered solution for accurate and efficient face mask detection.
+  - [Employee Attrition Predictor]():
   
 
 *Tools - TensorFlow, Keras, deep learning, image classification*
