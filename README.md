@@ -2,7 +2,7 @@
  
 Welcome to my data science portfolio! I'm a passionate data scientist eager to contribute insights through data-driven solutions. Below are highlights of my projects showcasing skills in data analysis, machine learning, and visualization. Explore repositories on GitHub for details. 
  
-## Contents  
+## Contents
 
 - ### **Machine Learning**
   - [Flood Prediction Model](https://github.com/ruturaj0626/Flood-Prediction-Model): Created a machine learning model to predict flood events, aiding early warning and risk management.
