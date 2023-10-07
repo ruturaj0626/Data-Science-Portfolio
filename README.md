@@ -34,6 +34,7 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
   - [Sarcasm-Detection-Through-Word-Embeddings](https://github.com/ruturaj0626/Sarcasm-Detection-Through-Word-Embeddings): Development and exploration of machine learning models and techniques for detecting sarcasm in text using word embeddings.
   - [Noun Phrase Classification](https://github.com/ruturaj0626/Noun-Phrase-Classification): Development and implementation of a Noun Phrase Classification system, involves categorizing noun phrases within text documents into predefined or custom-defined classes or categories.
   - [Movie Recommendation System](https://github.com/ruturaj0626/Movie_Recommendation_System): Developed a collaborative filtering-based recommendation system for personalized movie suggestions.
+  - [Text-Summarization](https://github.com/ruturaj0626/Text-Summarization): Delve into two fundamental methods for text summarization: extractive and abstractive. We will also explore ways to evaluate their effectiveness.
 
     
 *Tools - NLTK, spaCy, Gensim, Transformers (Hugging Face), TextBlob, AllenNLP*
