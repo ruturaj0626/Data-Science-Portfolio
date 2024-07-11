@@ -5,7 +5,7 @@ Welcome to my data science portfolio! I'm a passionate data scientist eager to c
 ## Contents 
  
 - ### **Machine Learning**
-  - [Flood Prediction Model](https://github.com/ruturaj0626/Flood-Prediction-Model): Created a machine learning model to predict flood events, aiding early warning and risk management.
+  - [Auto-MPG](https://github.com/ruturaj0626/Auto-MPG-): Predictive modeling of automotive fuel efficiency (mpg) with ML. This project includes data preprocessing, model training, evaluation, and visualization.
   - [Exploring Wine Quality](https://github.com/ruturaj0626/Exploring_Wine_Quality_EDA_ML): Conducted EDA and built ML models to predict wine quality based on various attributes.
   - [Stroke Risk Forecasting](https://github.com/ruturaj0626/Forecasting-Stroke-Risk_An-In-Depth-Analysis): Forecasted stroke risk using health data, identifying risk factors and providing actionable insights.
   - [Predicting Cancellations And Gaining Hotel Booking](https://github.com/ruturaj0626/Predicting-Cancellations-And-Gaining-Hotel-Booking): A focus on hotel booking cancellation predictions, revenue optimization, and customer behavior analysis. 
